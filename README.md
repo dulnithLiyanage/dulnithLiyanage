@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-<a href="https://www.instagram.com/dulnith_nethmira/"><img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"  width="32px" align="left"></a>
-<a href="https://www.facebook.com/dulnith.liyanage/"><img src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" width="32px" align="left"></a>
-<a href="https://twitter.com/DulnithL"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"   width="32px" align="left"></a>
-<a href="https://www.linkedin.com/in/dulnith-liyanage-798261221/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg"  width="32px" ></a>
+<a href="https://www.instagram.com/dulnith_nethmira/"><img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"  width="28px" align="left"></a>
+<a href="https://www.facebook.com/dulnith.liyanage/"><img src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" width="28px" align="left"></a>
+<a href="https://twitter.com/DulnithL"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"   width="28px" align="left"></a>
+<a href="https://www.linkedin.com/in/dulnith-liyanage-798261221/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg"  width="28px" ></a>
 
 ### Languages and Tools I Use
 
