@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dulnithLiyanage
+- 👋 Hi, I’m Dulnith Liyanage
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, Front End Frameworks
 
