@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Finish Learning Tailwind, finish TheOdinProject "Foundations" projects
 - ⚡ Fun Fact: I love to play the piano, I love working out, and swimming
 
-<img src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg">
+
 
 <!---
 dulnithLiyanage/dulnithLiyanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
