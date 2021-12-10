@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-<img src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=4&page=1&position=4&related_id=174855&origin=search">
+<a href="https://www.instagram.com/dulnith_nethmira/"><img src="https://cdn.cdnlogo.com/logos/i/21/instagram-glyph.svg" width="22px" align="left"></a>
 
 <!---
 dulnithLiyanage/dulnithLiyanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
