@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, Front End Frameworks
-- 🥅 2021 Goals: Finish Learning Tailwind, finish TheOdinProject "Foundations" projects
+- 🥅 2021 Goals: Finish Learning React, finish the freeCodeCamp "Front End Development Libraries" certification
 - ⚡ Fun Fact: I love to play the piano, I love working out, and swimming
 
 ### Connect with me:
