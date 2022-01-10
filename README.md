@@ -28,12 +28,15 @@
 <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg"  width="28px" align="left">
 <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" width="28px" align="left">
 
+
+<br>
 <br>
 <br>
 <br>
 
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=dulnithLiyanage&show_icons=true&hide_border=true&theme=dracula">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulnithLiyanage&theme=dracula&hide=batchfile&hide_border=true"></div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dulnithLiyanage&show_icons=true&hide_border=true">
 
 <!---
 dulnithLiyanage/dulnithLiyanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
